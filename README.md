@@ -1,1 +1,1 @@
-Showroom: https://selimensar.github.io/assignment-html/
+Showroom: https://selimensar.github.io/html-assignment/
